@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #1e1e21;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #e4ebeb;
+}
+
+
+#header_div{
+    height:35vh;
+    min-height: 80px;
+    margin:0px;
+    padding:0px;
+}
+
+#socials_div{
+    float:right;
+    padding:3rem 3rem 3rem;
+    text-align:center;
+}
+
+header{
+    padding:10px;
+}
+
+#header_logo{
+    max-height:40vh;
+}
+
+h1 {
+    color: #e4ebeb;
+}
+
+.main_div{
+    padding-right: 20vh;
+    padding-left: 20vh;
+}
+
+.icon{
+    height: 2.5rem;
+    margin: 0.5rem;
+
+}
